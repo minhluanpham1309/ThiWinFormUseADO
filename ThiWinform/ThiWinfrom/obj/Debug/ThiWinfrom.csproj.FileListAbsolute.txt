@@ -1,0 +1,17 @@
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\ThiWinfrom.exe.config
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\ThiWinfrom.exe
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\ThiWinfrom.pdb
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\EntityFramework.dll
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\EntityFramework.xml
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.csprojResolveAssemblyReference.cache
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.Frm_DSSP.resources
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.Frm_Main.resources
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.Properties.Resources.resources
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.csproj.GenerateResource.Cache
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.exe
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.pdb
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\ThiWinfrom.Frm_Report.resources
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\RdlCompile.cache
+D:\Hoc\C#\BaiTap\ThiC#\ThiWinform\ThiWinfrom\obj\Debug\RdlCompile.compiled
